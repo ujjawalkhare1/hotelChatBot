@@ -1,0 +1,42 @@
+can you clean my room
+can i have cleaning of my room
+i want my room neat and tidy can you help me
+can some clean my room
+may i have my room cleaned
+can you arrange someone to clean my room
+clean my room please
+arrange to clean my room
+get my room cleaned
+please get my room cleaned
+can someone clean mess in my room
+please arrange for room service of my room
+please arrange for cleaning of my room
+i want you to send someone to clean my room
+i want my room cleaned
+send some staff to clean the room
+please send some to clean my room
+send someone to clean room where i am staying
+send someone to clean room where we are staying
+i want you to get someone to clean up my room
+can you clean my room at [time](time) 
+can i have cleaning of my room at [time](time)
+i want my room neat and tidy  at [time](time) can you help me
+can some clean my room  at [time](time)
+may i have my room cleaned  at [time](time)
+can you arrange someone to clean my room  at [time](time)
+clean my room please at [time](time)
+arrange to clean my room  at [time](time)
+get my room cleaned  at [time](time)
+please get my room cleaned  at [time](time)
+can someone clean mess in my room at [time](time)
+please arrange for room service of my room  at [time](time)
+please arrange for cleaning of my room  at [time](time)
+i want you to send someone to clean my room at [time](time)
+i want my room cleaned at [time](time)
+send some staff to clean the room at [time](time)
+please send some to clean my room at [time](time)
+send someone to clean room  at [time](time) where i am staying
+send someone to clean room where we are staying at [time](time)
+i want you to get someone to clean up my room  at [time](time)
+at [time](time)
+at [time](time)

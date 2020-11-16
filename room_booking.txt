@@ -1,0 +1,84 @@
+can you book room for me
+can i have room here
+can i have reservation of room here
+i want to stay in this hotel
+i want to stay in room of your hotel
+i want to stay in hotel of yours
+can i stay in your hotel 
+can i reserve room in hotel
+i want to book a room
+i want to book some room in your hotel
+i want to have reservations in this hotel
+i want to book room in this hotel
+i want to book room in your hotel
+may i have reservation in this hotel
+may i reserve room in this hotel
+can i book hotels in this hotel
+will it be possible to book room in the hotel
+book room for me
+book room
+please book room for me
+reservation of room i want
+can you book room for me
+can i have room here
+can i have reservation of room here
+i want to stay in this hotel
+i want to stay in room of your hotel
+i want to stay in hotel of yours
+can i stay in your hotel 
+can i reserve room in hotel
+i want to book a room
+i want to book some room in your hotel
+i want to have reservations in this hotel
+i want to book room in this hotel
+i want to book room in your hotel
+may i have reservation in this hotel
+may i reserve room in this hotel
+can i book hotels in this hotel
+will it be possible to book room in the hotel
+book room for me
+book room
+please book room for me
+reservation of room i want
+can you book [room_numbers] for me
+can i have [room_numbers] here
+can i have reservation of [room_numbers] here
+i want to stay in this hotel
+i want to stay in room of your hotel
+i want to stay in hotel of yours
+can i stay in your hotel 
+can i reserve [room_numbers] in hotel
+i want to book a room
+i want to book some [room_numbers] in your hotel
+i want to have reservations in this hotel
+i want to book [room_numbers] in this hotel
+i want to book [room_numbers] in your hotel
+may i have reservation in this hotel
+may i reserve [room_numbers] in this hotel
+can i book hotels in this hotel
+will it be possible to book [room_numbers] in the hotel
+book [room_numbers] for me
+book [room_numbers]
+please book [room_numbers] for me
+reservation of [room_numbers] i want
+can you book [room_numbers] [room_type] for me
+can i have [room_numbers] [room_type] here
+can i have reservation of [room_numbers] [room_type] here
+i want to stay in this hotel
+i want to stay in room of your hotel
+i want to stay in hotel of yours
+can i stay in your hotel 
+can i reserve [room_numbers] [room_type] in hotel
+i want to book a room
+i want to book some [room_numbers] [room_type] in your hotel
+i want to have reservations in this hotel
+i want to book [room_numbers] [room_type] in this hotel
+i want to book [room_numbers] [room_type] in your hotel
+may i have reservation in this hotel
+may i reserve [room_numbers] [room_type] in this hotel
+can i book hotels in this hotel
+will it be possible to book [room_numbers] [room_type] in the hotel
+book [room_numbers] [room_type] for me
+book [room_numbers] [room_type]
+please book [room_numbers] [room_type] for me
+reservation of [room_numbers] [room_type] i want
